@@ -1,0 +1,21 @@
+# Ignore audio files
+*.flac
+*.wav
+*.mp3
+*.aiff
+*.ogg
+*.m4a
+*.alac
+
+# Ignore temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Ignore output and log files
+*.log
+*.out
+
+# Ignore temporary repair folders
+repaired/
